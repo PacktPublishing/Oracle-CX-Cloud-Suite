@@ -1,2 +1,1 @@
-# Oracle-CX-Cloud-Suite
-Oracle CX Cloud Suite, published by Packt
+# The code for this repository is under development :construction_worker:
